@@ -1,0 +1,4 @@
+com/leif/service/DeptClientService.class
+com/leif/service/DeptClientServiceFallbackFactory.class
+com/leif/service/DeptClientServiceFallbackFactory$1.class
+com/leif/entities/Dept.class
